@@ -3,7 +3,7 @@
     "base_path": "/app/v1/", 
     "environment": "development"
   },
-  {"endpoint": "https://plataforma.manu2b.com/sistema/manu2b", 
+  {"endpoint": "https://bec7rclwo8xk6sa-manu.adb.sa-saopaulo-1.oraclecloudapps.com/ords/manu2b", 
     "base_path": "/app/v1/", 
     "environment": "approval"
   },
