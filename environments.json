@@ -7,7 +7,7 @@
     "base_path": "/app/v1/", 
     "environment": "approval"
   },
-  {"endpoint": "https://bec7rclwo8xk6sa-vzkj0mjb0is7pkjp.adb.sa-saopaulo-1.oraclecloudapps.com/ords/fatto", 
+  {"endpoint": "https://bec7rclwo8xk6sa-vzkj0mjb0is7pkjp.adb.sa-saopaulo-1.oraclecloudapps.com/ords/fattocmms", 
     "base_path": "/app/v1/", 
     "environment": "production"
   }
